@@ -1,0 +1,10 @@
+.searchForm{
+    width: 50%;
+    margin-bottom:2% ;
+    margin-top: 1%;
+}
+
+.usersList{
+    align-items: center;
+    justify-content:center;
+}
